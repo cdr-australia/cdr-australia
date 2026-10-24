@@ -90,7 +90,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    min-height: calc(100vh - 80px);
+    min-height: calc(70vh - 80px);
     background: linear-gradient(135deg, var(--text-dark), #4a6b9c);
     color: var(--white);
     display: flex;
