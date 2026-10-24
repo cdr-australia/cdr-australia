@@ -32,6 +32,9 @@ body {
     color: var(--text-dark);
     background-color: var(--white);
 }
+section{
+        padding: 30px 0;
+}
 
 /* Utility Classes */
 .container {
