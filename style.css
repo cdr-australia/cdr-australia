@@ -262,8 +262,8 @@ footer {
         right: 0;
         background-color: var(--white);
         flex-direction: column;
-        text-align: center;
-        padding: var(--spacing-md) 0;
+        text-align: left;
+        padding: 5px 20px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     }
     
